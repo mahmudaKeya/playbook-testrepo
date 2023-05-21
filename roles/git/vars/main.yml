@@ -1,6 +1,8 @@
 ---
 # vars file for git
-programming_planet: https://github.com/nahiyan-DevOps/programming_planet.git
-wave_cafe: https://github.com/nahiyan-DevOps/wave_cafe.git 
-file_path_centos: /usr/share/nginx/html/wave_cafe
-file_path_ubuntu: /home/ansible/programming_planet
+backend: https://github.com/mahmudaKeya/backend-ansible.git
+IP_ADDRESS_1: 192.168.31.173
+db: https://github.com/mahmudaKeya/frontend_ansible.git 
+IP_ADDRESS_2: 192.168.31.120
+file_path_backend: /home/ansible/ansible_backend
+file_path_db: /home/ansible/ansible_db
